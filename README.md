@@ -1,6 +1,7 @@
 ## Expressions Calculator
 
 This program is a expression calculator. It calculates arithmetic, exponential , square roots, logarithmic and trigonometry functions.
+In addition, it can returns the derivative of functions, and simplify expressions.
 OOP course, Bar-Ilan university.
 
 ## Folder Structure
